@@ -55,7 +55,7 @@ A complete log of my web development skills, learning, resources, highlights, in
 |            Status           |   Year   | Course                                                          |                Tutor                        |
 |:---------------------------:|:---------|:----------------------------------------------------------------|:-------------------------------------------:|
 | ![In Progress][In Progress] |          | Reading [You Don't know JavaScript]                             | [Kyle Simpson]                              |
-| ![Completed][Completed]     |     2019 | [Eloquent JavaScript]                                           | [Marijn Haverbeke]                          |
+| ![Completed][Completed]     |     2019 | [Introduction to JavaScript]                                    | [Free Code Camp]                          |
 | ![Completed][Completed]     | Feb 2019 | [The Complete JavaScript Handbook]                              | [Flavio Copes]                              |
 | ![Completed][Completed]     | Jan 2019 | [JavaScript clean code guide]                                   | [Ryan McDermott]                            |
 | ![Completed][Completed]     | Aug 2018 | [Front-End Web Developer Nanodegree]                            | [Udacity] - Google Scholarship              |
@@ -94,7 +94,7 @@ A complete log of my web development skills, learning, resources, highlights, in
 [Google Developer Challenge Scholarship]: https://www.udacity.com/google-scholarships
 [JavaScript30]: https://javascript30.com/
 [JavaScript & jQuery]: http://javascriptbook.com/
-[Eloquent JavaScript]: http://eloquentjavascript.net/
+[Introduction to JavaScript]: http://eloquentjavascript.net/
 [Learn CSS Grid]: https://scrimba.com/g/gR8PTE
 [The Beginner's Guide to Reactjs]: https://egghead.io/courses/the-beginner-s-guide-to-reactjs
 
@@ -112,7 +112,6 @@ A complete log of my web development skills, learning, resources, highlights, in
 [Udemy]: https://www.udemy.com
 [Udacity]: https://www.udacity.com
 [Wes Bos]: https://twitter.com/wesbos
-[Marijn Haverbeke]: https://twitter.com/MarijnJH
 [Per Harald Borgen]: https://twitter.com/perborgen
 [Scrimba]: https://scrimba.com/
 [Kent C Dodds]: https://egghead.io/instructors/kentcdodds
