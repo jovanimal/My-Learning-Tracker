@@ -11,21 +11,21 @@ A complete log of my web development skills, learning, resources, highlights, in
 
 |               Skill              | 1<br>Introduction | 2<br>Basics   | 3<br>Good     | 4<br>Pretty Good | 5<br>Confident | 6<br>Awesome    |
 |:-------------------------------- |:-----------------:|:-------------:|:-------------:|:----------------:|:--------------:|:---------------:|
-|**HTML5**                         | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    | ![done][done]  |                 |
-|**CSS3**                          | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    | ![done][done]  |                 |
-|**JavaScript**                    | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
-|**ES6**                           | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
-|**React**                         | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
-|**Python**                        | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
-|**Git**                           | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
-|**GitHub**                        | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
-|**Working with APIs**             | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
-|**Website Building**              | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
-|**Publishing website**            | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
-|**Bootstrap**                     | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
+|**HTML5**                         | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
+|**CSS3**                          | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
+|**JavaScript**                    | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
+|**ES6**                           | ![done][done]     | ![done][done] |               |                  |                |                 |
 |**Command line**                  | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
-|**Node.js**                       | ![done][done]     | ![done][done] |               |                  |                |                 |
-|**NPM**                           | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
+|**React**                         | ![done][done]     |               |               |                  |                |                 |
+|**Python**                        |                   |               |               |                  |                |                 |
+|**Git**                           | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
+|**GitHub**                        | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
+|**Working with APIs**             |                   |               |               |                  |                |                 |
+|**Website Building**              |                   |               |               |                  |                |                 |
+|**Publishing website**            |                   |               |               |                  |                |                 |
+|**Bootstrap**                     |                   |               |               |                  |                |                 |
+|**Node.js**                       |                   |               |               |                  |                |                 |
+|**NPM**                                         
 
 ----
 
@@ -40,6 +40,7 @@ A complete log of my web development skills, learning, resources, highlights, in
 |            Status           |   Year   | Course                                                          |                Tutor                        |
 |:---------------------------:|:---------|:----------------------------------------------------------------|:-------------------------------------------:|
 | ![In Progress][In Progress] |          | Reading [You Don't know JavaScript]                             | [Kyle Simpson]                              |
+| ![In Progress][In Progress] |  Monday  | [Weekly Coding Community Meetup in Kuala Lumpur]                | [The Hacker Collective]                              |
 | ![Completed][Completed]     | Aug 2019 | [Introduction to Basic HTML & HTML5]                            | [Free Code Camp]                            |
 | ![Completed][Completed]     | Sep 2019 | [Practical JavaScript]                                          | [Watch and Code]                            |
 | ![Completed][Completed]     | Oct 2019 | [Introduction to JavaScript]                                    | [Codecademy]                          |
@@ -48,6 +49,7 @@ A complete log of my web development skills, learning, resources, highlights, in
 [//]: # (Reference links to courses)
 
 [You Don't know JavaScript]: https://github.com/getify/You-Dont-Know-JS
+[Weekly Coding Community Meetup]: https://www.facebook.com/hackercollective/
 [Introduction to Basic HTML & HTML5]: https://learn.freecodecamp.org/responsive-web-design/basic-html-and-html5
 [Practical JavaScript]: https://watchandcode.com/
 [Introduction to JavaScript]: https://www.codecademy.com/learn/introduction-to-javascript
@@ -56,6 +58,7 @@ A complete log of my web development skills, learning, resources, highlights, in
 [//]: # (Reference links to tutors)
 
 [Kyle Simpson]: https://twitter.com/getify
+[The Hacker Collective]: https://hackercollective.co
 [Free Code Camp]: https://www.freecodecamp.org
 [Watch and Code]: https://watchandcode.com/
 [Codecademy]: https://www.codecademy.com
@@ -91,8 +94,8 @@ And here is a chronological log of the highlights of my learning:
 
 I'm currently interested in/excited about:
 
-+ React
 + JavaScript best practice
++ React
 + Object Oriented Programming
 
 ----
