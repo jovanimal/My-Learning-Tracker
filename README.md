@@ -49,7 +49,7 @@ A complete log of my web development skills, learning, resources, highlights, in
 [//]: # (Reference links to courses)
 
 [You Don't know JavaScript]: https://github.com/getify/You-Dont-Know-JS
-[Weekly Coding Community Meetup]: https://www.facebook.com/hackercollective/
+[Weekly Coding Community Meetup in Kuala Lumpur]: https://www.facebook.com/hackercollective/
 [Introduction to Basic HTML & HTML5]: https://learn.freecodecamp.org/responsive-web-design/basic-html-and-html5
 [Practical JavaScript]: https://watchandcode.com/
 [Introduction to JavaScript]: https://www.codecademy.com/learn/introduction-to-javascript
