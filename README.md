@@ -132,7 +132,8 @@ It is an almost exact copy of [Ginny Fahs'](https://twitter.com/ginnyfahs) ["Thi
 ----
 
 The original version of this learning tracker is adopted from [Syknapse](https://github.com/Syknapse/My-Learning-Tracker) and customised for my own use.
-**You can get in touch with me via [LinkedIn](https://www.linkedin.com/in/jovan-goh-6893a0125/)**
+
+**You can get in touch with me via [LinkedIn](https://www.linkedin.com/in/jovan-goh-6893a0125/).**
 
 ----
 
