@@ -16,31 +16,16 @@ A complete log of my web development skills, learning, resources, highlights, in
 |**JavaScript**                    | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
 |**ES6**                           | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
 |**React**                         | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
-|**Redux**                         | ![done][done]     | ![done][done] |               |                  |                |                 |
-|**Backbone**                      | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
+|**Python**                        | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
 |**Git**                           | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
-|**Git bash**                      | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
 |**GitHub**                        | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
-|**Bitbucket**                     | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
-|**Gulp/Webpack**                  | ![done][done]     | ![done][done] |               |                  |                |                 |
-|**Agile**                         | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
-|**Stylus**                        | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
 |**Working with APIs**             | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
-|**jQuery**                        | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    | ![done][done]  |                 |
-|**Css Grid & Flex-box**           | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
-|**Responsive design**             | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
-|**Mobile first**                  | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
-|**Progressive Enhancement**       | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
-|**Markdown**                      | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    | ![done][done]  |                 |
 |**Website Building**              | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
 |**Publishing website**            | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
 |**Bootstrap**                     | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
 |**Command line**                  | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
 |**Node.js**                       | ![done][done]     | ![done][done] |               |                  |                |                 |
 |**NPM**                           | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
-|**Open Source Contribution**      | ![done][done]     | ![done][done] |               |                  |                |                 |
-|**Angular 4**                     | ![done][done]     |               |               |                  |                |                 |
-|**NPM scripts**                   | ![done][done]     |               |               |                  |                |          .      |
 
 ----
 
@@ -55,45 +40,38 @@ A complete log of my web development skills, learning, resources, highlights, in
 |            Status           |   Year   | Course                                                          |                Tutor                        |
 |:---------------------------:|:---------|:----------------------------------------------------------------|:-------------------------------------------:|
 | ![In Progress][In Progress] |          | Reading [You Don't know JavaScript]                             | [Kyle Simpson]                              |
+| ![Completed][Completed]     | Aug 2019 | [Introduction to Basic HTML & HTML5]                            | [Free Code Camp]                            |
+| ![Completed][Completed]     | Sep 2019 | [Practical JavaScript]                                          | [Watch and Code]                            |
 | ![Completed][Completed]     | Oct 2019 | [Introduction to JavaScript]                                    | [Codecademy]                          |
-| ![Completed][Completed]     | 2017     | [Introduction to Basic HTML & HTML5]                            | [Free Code Camp]                            |
+
 
 [//]: # (Reference links to courses)
 
 [You Don't know JavaScript]: https://github.com/getify/You-Dont-Know-JS
-[Introduction to JavaScript]: https://www.codecademy.com/learn/introduction-to-javascript
 [Introduction to Basic HTML & HTML5]: https://learn.freecodecamp.org/responsive-web-design/basic-html-and-html5
+[Practical JavaScript]: https://watchandcode.com/
+[Introduction to JavaScript]: https://www.codecademy.com/learn/introduction-to-javascript
+
 
 [//]: # (Reference links to tutors)
 
 [Kyle Simpson]: https://twitter.com/getify
-[Codecademy]: https://www.codecademy.com
 [Free Code Camp]: https://www.freecodecamp.org
+[Watch and Code]: https://watchandcode.com/
+[Codecademy]: https://www.codecademy.com
 
 ### Paths
 
 | Paths with multiple resources                             |            Author            |
 |:----------------------------------------------------------|:----------------------------:|
-| [33 concepts every JavaScript developer should know]      | [Leonardo Maldonado]         |
-| [Best JavaScript books, tutorials, courses & videos]      | [ReactDOM]                   |
-| [Learn to code in 2018]                                   | [Andrei Neagoie]             |
-| [Get Job ready - JavaScript Edition]                      | [P1xt]                       |
-| [Full Stack Web Developer Path]                           | [Shovan Chatterjee]          |
+| [Watch and Code]                                          | [Gordon Zhu]         |
 
 [//]: # (Reference links to paths)
 
-[33 concepts every JavaScript developer should know]: https://github.com/leonardomso/33-js-concepts
-[Best JavaScript books, tutorials, courses & videos]: https://reactdom.com/blog/javascript-books
-[Learn to code in 2018]: https://hackernoon.com/learn-to-code-in-2018-get-hired-and-have-fun-along-the-way-b338247eed6a
-[Get Job ready - JavaScript Edition]: https://github.com/P1xt/p1xt-guides/blob/master/job-ready-javascript-edition-2.0.md
-[Full Stack Web Developer Path]: https://github.com/shovanch/fullstack-web-developer-path
+[Watch and Code]: https://watchandcode.com
 
 [//]: # (Reference links to authors)
-[Leonardo Maldonado]: https://github.com/leonardomso
-[ReactDOM]: https://reactdom.com
-[Andrei Neagoie]: https://twitter.com/AndreiNeagoie
-[P1xt]: https://github.com/P1xt
-[Shovan Chatterjee]: https://github.com/shovanch
+[Gordon Zhu]: https://github.com/gordonmzhu
 
 ----
 
@@ -101,11 +79,11 @@ A complete log of my web development skills, learning, resources, highlights, in
 
 The most interesting of what I'm watching, reading, and doing:
 
-[**Click here for playlists and tweets. Articles, talks, tutorials, and more**](https://syknapse.github.io/My-Learning-Tracker/)
+[**Click here for my articles**](https://jovangoh.wordpress.com/)
 
 And here is a chronological log of the highlights of my learning:
 
-[**My Learning Log**](https://github.com/Syknapse/My-Learning-Tracker/blob/master/log.md)
+[**My Learning Log**](https://github.com/jovanimal/My-Learning-Tracker/blob/master/log.md)
 
 ----
 
@@ -127,32 +105,31 @@ It is an almost exact copy of [Ginny Fahs'](https://twitter.com/ginnyfahs) ["Thi
 
 
 * [x] Open the computer’s terminal
-* [x] Use a text editor (bonus points if you have a specific reason for choosing it)
+* [ ] Use a text editor (bonus points if you have a specific reason for choosing it)
 * [x] Use some keyboard shortcuts
 * [x] Write tests for your code
-* [x] Help another web developer with something they’re having trouble with
+* [ ] Help another web developer with something they’re having trouble with
 * [x] Attend an event about web development
 * [x] Follow developers you admire on social media
 * [x] Read a book about coding
 * [x] Open your browser console
-* [x] Get data from an API
+* [ ] Get data from an API
 * [ ] Hide API keys from the public
-* [x] Post a question on Stack Overflow
+* [ ] Post a question on Stack Overflow
 * [x] Push code to GitHub or GitLab or BitBucket
 * [ ] Speak about something web development-related at an event
-* [x] Complete a technical interview
-* [x] Participate in a hackathon
+* [ ] Complete a technical interview
+* [ ] Participate in a hackathon
 * [x] Deploy a project
 * [ ] Ship your project to a store
 * [ ] Contribute to open source
-* [x] Get paid to code
-* [x] When people ask what you do, respond saying you’re a developer :)
+* [ ] Get paid to code
+* [ ] When people ask what you do, respond saying you’re a developer :)
 
 ----
 
-If you find this useful for your own needs you are welcome to fork a copy, customise it or even give it a star.
-
-**You can [follow me on Twitter](https://twitter.com/Syknapse "@Syknapse") or [get in touch](https://syknapse.github.io/Syk-Houdeib/#contact "My contact section | Portfolio")**
+The original version of this learning tracker is adopted from [Syknapse](https://github.com/Syknapse/My-Learning-Tracker) and customised for my own use.
+**You can get in touch with me via [LinkedIn](https://www.linkedin.com/in/jovan-goh-6893a0125/)**
 
 ----
 
@@ -162,4 +139,4 @@ This has been partly inspired by [Shovan Chatterjee](https://twitter.com/shovan_
 
 ### License
 
-[MIT License](https://github.com/Syknapse/My-Learning-Tracker/blob/master/LICENSE)
+[MIT License](https://github.com/jovanimal/My-Learning-Tracker/blob/master/LICENSE)
