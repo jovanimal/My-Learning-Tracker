@@ -16,7 +16,7 @@ A complete log of my web development skills, learning, resources, highlights, in
 |**JavaScript**                    | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
 |**ES6**                           | ![done][done]     | ![done][done] |               |                  |                |                 |
 |**Command line**                  | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
-|**React**                         | ![done][done]     |               |               |                  |                |                 |
+|**React**                         |                   |               |               |                  |                |                 |
 |**Python**                        |                   |               |               |                  |                |                 |
 |**Git**                           | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
 |**GitHub**                        | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
