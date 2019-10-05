@@ -12,6 +12,10 @@
 
 ----------------------------------------------------------
 
+## Sat 5 Oct 19
+
+Finished reading [YDKJS: Getting Started](https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/getting-started/README.md).
+
 ## Thu 3 Oct 19
 
 While reading [You Don't Know JavaScript](https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/getting-started/ch2.md), important note on **Nested Scopes**:
