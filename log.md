@@ -2,7 +2,7 @@
 
 |Date |                                        |
 |:---:|:---------------------------------------|
-|     |Learnt, thoughts, progress, ideas, links|
+|     |Progress, thoughts and ideas	       |
 
 ## Full [Log Index]
 
