@@ -39,6 +39,7 @@ A complete log of my web development skills, learning, resources, highlights, in
 
 |            Status           |   Year   | Course                                                          |                Tutor                        |
 |:---------------------------:|:---------|:----------------------------------------------------------------|:-------------------------------------------:|
+| ![In Progress][In Progress] |          | [Eloquent JavaScript]                                           | [Marijn Haverbeke]                          |
 | ![In Progress][In Progress] |          | Reading [You Don't know JavaScript]                             | [Kyle Simpson]                              |
 | ![In Progress][In Progress] |  Monday  | [Weekly Coding Community Meetup in Kuala Lumpur]                | [The Hacker Collective]                              |
 | ![Completed][Completed]     | Aug 2019 | [Introduction to Basic HTML & HTML5]                            | [Free Code Camp]                            |
@@ -48,6 +49,7 @@ A complete log of my web development skills, learning, resources, highlights, in
 
 [//]: # (Reference links to courses)
 
+[Eloquent JavaScript]: http://eloquentjavascript.net/
 [You Don't know JavaScript]: https://github.com/getify/You-Dont-Know-JS
 [Weekly Coding Community Meetup in Kuala Lumpur]: https://www.facebook.com/hackercollective/
 [Introduction to Basic HTML & HTML5]: https://learn.freecodecamp.org/responsive-web-design/basic-html-and-html5
@@ -57,6 +59,7 @@ A complete log of my web development skills, learning, resources, highlights, in
 
 [//]: # (Reference links to tutors)
 
+[Marijn Haverbeke]: https://twitter.com/MarijnJH
 [Kyle Simpson]: https://twitter.com/getify
 [The Hacker Collective]: https://hackercollective.co
 [Free Code Camp]: https://www.freecodecamp.org
