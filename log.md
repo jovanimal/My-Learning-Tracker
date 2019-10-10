@@ -11,10 +11,14 @@
 ----------------------------------------------------------
 
 ----------------------------------------------------------
+## Thu 10 Oct 19
+
+Completed [Intro to HTML & CSS](https://www.udacity.com/course/intro-to-html-and-css--ud001) from Udacity.
+
 ## Mon 7 Oct 19
 
 Weekly Coding Group, HiPo coding Group learning today:
-
+Usage of Digital Ocean for cloud services and Caddy.
 
 ## Sat 5 Oct 19
 
