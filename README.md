@@ -41,7 +41,7 @@ A complete log of my web development skills, learning, resources, highlights, in
 |:---------------------------:|:---------|:----------------------------------------------------------------|:-------------------------------------------:|
 | ![In Progress][In Progress] |          | Reading [Eloquent JavaScript]                                           | [Marijn Haverbeke]                          |
 | ![In Progress][In Progress] |  Monday  | [Weekly Coding Community Meetup in Kuala Lumpur]                | [The Hacker Collective]                              |
-| ![In Progress][In Progress] |          | [You Don't know JavaScript] (To continue after [Eloquent JavaScript]    | [Kyle Simpson]                              |
+| ![In Progress][In Progress] |          | [You Don't know JavaScript] (To continue after [Eloquent JavaScript])    | [Kyle Simpson]                              |
 | ![Completed][Completed]     | Aug 2019 | [Introduction to Basic HTML & HTML5]                            | [Free Code Camp]                            |
 | ![Completed][Completed]     | Sep 2019 | [Practical JavaScript]                                          | [Watch and Code]                            |
 | ![Completed][Completed]     | Oct 2019 | [Introduction to JavaScript]                                    | [Codecademy]                          |
