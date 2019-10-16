@@ -14,7 +14,7 @@ A complete log of my web development skills, learning, resources, highlights, in
 |**HTML5**                         | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
 |**CSS3**                          | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
 |**JavaScript**                    | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
-|**ES6**                           | ![done][done]     | ![done][done] |               |                  |                |                 |
+|**ES6**                           | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
 |**Command line**                  | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
 |**React**                         |                   |               |               |                  |                |                 |
 |**Python**                        |                   |               |               |                  |                |                 |
