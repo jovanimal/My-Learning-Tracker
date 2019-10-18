@@ -18,7 +18,7 @@ A complete log of my web development skills, learning, resources, highlights, in
 |**Command line**                  | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
 |**React**                         |                   |               |               |                  |                |                 |
 |**Python**                        |                   |               |               |                  |                |                 |
-|**Git**                           | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
+|**Git**                           | ![done][done]     | ![done][done] |               |                  |                |                 |
 |**GitHub**                        | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
 |**Working with APIs**             |                   |               |               |                  |                |                 |
 |**Website Building**              |                   |               |               |                  |                |                 |
