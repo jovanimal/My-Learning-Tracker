@@ -11,6 +11,32 @@
 ----------------------------------------------------------
 
 ----------------------------------------------------------
+## Tue 22 Oct 19
+
+Completed 3 exercises from [Eloquent JavaScript](http://eloquentjavascript.net/) without looking at the hints and got it all right ! Confidence boosted ! :)
+
+Bean counting:
+
+```
+function countBs (text) {
+  return countChar(text, "B");
+}
+
+function countChar (phrase, n) {
+  let count = 0;
+  for (let i = 0; i < phrase.length; i++) {
+    if (phrase[i] === n) {
+      count += 1;
+    }
+  }
+  return count;
+}
+console.log(countBs("BBC"));
+// → 2
+console.log(countChar("kakkerlak", "k"));
+// → 4
+```
+
 ## Fri 11 Oct 19
 
 Completed a chess game today from [Eloquent JavaScript](http://eloquentjavascript.net/).
