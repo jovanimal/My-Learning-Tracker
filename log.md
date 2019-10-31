@@ -23,7 +23,8 @@ function shiftLeftNumber (arr,n) {
   console.log(arr)
 }
 
-shiftLeftNumber([292,2,3,4,5,6,7],2)
+shiftLeftNumber([1,2,3,4,5,6,7],2)
+// → return [ 3, 4, 5, 6, 7, 1, 2 ]
 ```
 
 ## Tue 22 Oct 19
