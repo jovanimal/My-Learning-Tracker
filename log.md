@@ -11,6 +11,21 @@
 ----------------------------------------------------------
 
 ----------------------------------------------------------
+## Wed 30 Oct 19
+
+Completed a hackerrank algorithm which move the first ```n``` element in an array to the back of the array.
+
+```
+function shiftLeftNumber (arr,n) {
+  for (i = 1; i <= n; i++) {
+  arr.push(arr.shift ());
+  }
+  console.log(arr)
+}
+
+shiftLeftNumber([292,2,3,4,5,6,7],2)
+```
+
 ## Tue 22 Oct 19
 
 Completed 3 exercises from [Eloquent JavaScript](http://eloquentjavascript.net/) without looking at the hints and got it all right ! Confidence boosted ! :)
