@@ -13,7 +13,7 @@
 ----------------------------------------------------------
 ## Wed 30 Oct 19
 
-Completed a hackerrank algorithm which move the first ```n``` element in an array to the back of the array.
+Completed a [HackerRank](https://www.hackerrank.com/) algorithm which move the first ```n``` element in an array to the back of the array.
 
 ```
 function shiftLeftNumber (arr,n) {
