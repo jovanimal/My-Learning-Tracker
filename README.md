@@ -26,7 +26,7 @@ A complete log of my web development skills, learning, resources, highlights, in
 |**Bootstrap**                     |                   |               |               |                  |                |                 |
 |**Node.js**                       |                   |               |               |                  |                |                 |
 |**NPM**                           |                   |               |               |                  |                |                 |
-|**Hacker Rank**                   |                   |               |               |                  |                |                 |
+|**Hacker Rank**                   | ![done][done]     |               |               |                  |                |                 |
 ----
 
 ## Learning
