@@ -16,7 +16,7 @@ A complete log of my web development skills, learning, resources, highlights, in
 |**JavaScript**                    | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
 |**ES6**                           | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
 |**Command line**                  | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
-|**React**                         |                   |               |               |                  |                |                 |
+|**React**                         |  ![done][done]    |               |               |                  |                |                 |
 |**Python**                        |                   |               |               |                  |                |                 |
 |**Git**                           | ![done][done]     | ![done][done] |               |                  |                |                 |
 |**GitHub**                        | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
@@ -26,7 +26,7 @@ A complete log of my web development skills, learning, resources, highlights, in
 |**Bootstrap**                     |                   |               |               |                  |                |                 |
 |**Node.js**                       |                   |               |               |                  |                |                 |
 |**NPM**                           |                   |               |               |                  |                |                 |
-|**Hacker Rank**                   | ![done][done]     |               |               |                  |                |                 |
+|**Hacker Rank**                   | ![done][done]     | ![done][done] |               |                  |                |                 |
 ----
 
 ## Learning
@@ -39,16 +39,22 @@ A complete log of my web development skills, learning, resources, highlights, in
 
 |            Status           |   Year   | Course                                                          |                Tutor                        |
 |:---------------------------:|:---------|:----------------------------------------------------------------|:-------------------------------------------:|
-| ![In Progress][In Progress] |          | Reading [Eloquent JavaScript]                                           | [Marijn Haverbeke]                          |
-| ![In Progress][In Progress] |  Monday  | [Weekly Coding Community Meetup in Kuala Lumpur]                | [The Hacker Collective]                              |
-| ![In Progress][In Progress] |          | [You Don't know JavaScript] (To continue after [Eloquent JavaScript])    | [Kyle Simpson]                              |
-| ![Completed][Completed]     | Aug 2019 | [Introduction to Basic HTML & HTML5]                            | [Free Code Camp]                            |
-| ![Completed][Completed]     | Sep 2019 | [Practical JavaScript]                                          | [Watch and Code]                            |
+| ![In Progress][In Progress] | Mar 2020 | 10-week Web Development Bootcamp                                | [Next Academy]                          |
+| ![In Progress][In Progress] |          | Reading [Eloquent JavaScript]                                   | [Marijn Haverbeke]                          |
+| ![In Progress][In Progress] |          | [You Don't know JavaScript] (To continue after [Eloquent JavaScript])   | [Kyle Simpson]                              |
+| ![Completed][Completed]     | Dec 2019 | [Build Responsive Real World Websites with HTML5 and CSS3]      | [Udemy]                              |
+| ![Completed][Completed]     | Dec 2019 | [Weekly Coding Community Meetup in Kuala Lumpur]                | [The Hacker Collective]                              |
 | ![Completed][Completed]     | Oct 2019 | [Introduction to JavaScript]                                    | [Codecademy]                          |
+| ![Completed][Completed]     | Sep 2019 | [Practical JavaScript]                                          | [Watch and Code]                            |
+| ![Completed][Completed]     | Aug 2019 | [Introduction to Basic HTML & HTML5]                            | [Free Code Camp]                            |
+
+
 
 
 [//]: # (Reference links to courses)
 
+[Next Academy]: https://www.nextacademy.com/quantum-degrees/coding/full-time/full-stack-web-development
+[Udemy]: https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/
 [Eloquent JavaScript]: http://eloquentjavascript.net/
 [You Don't know JavaScript]: https://github.com/getify/You-Dont-Know-JS
 [Weekly Coding Community Meetup in Kuala Lumpur]: https://www.facebook.com/hackercollective/
