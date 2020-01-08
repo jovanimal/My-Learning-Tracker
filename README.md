@@ -54,7 +54,8 @@ A complete log of my web development skills, learning, resources, highlights, in
 [//]: # (Reference links to courses)
 
 [Next Academy]: https://www.nextacademy.com/quantum-degrees/coding/full-time/full-stack-web-development
-[Udemy]: https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/
+[Build Responsive Real World Websites with HTML5 and CSS3]: https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/
+[Udemy]: https://www.udemy.com/
 [Eloquent JavaScript]: http://eloquentjavascript.net/
 [You Don't know JavaScript]: https://github.com/getify/You-Dont-Know-JS
 [Weekly Coding Community Meetup in Kuala Lumpur]: https://www.facebook.com/hackercollective/
