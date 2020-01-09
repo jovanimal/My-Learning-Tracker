@@ -5,12 +5,25 @@
 |     |Progress, thoughts and ideas	       |
 
 ## Full [Log Index]
+[__************** 2020 Objectives **************__]
+
+----------------------------------------------------------
+To fast track my learning by building projects and eventually get into a full time tech role.
+
+----------------------------------------------------------
+
 
 [__************** 2019 Objectives **************__]
 
 ----------------------------------------------------------
+To build up my foundation in front end web development, particularly Javascript and JS frameworks.
 
 ----------------------------------------------------------
+
+## Mon 13 Jan 20
+
+First day of Next Academy Full Stack Web Development Bootcamp.
+
 ## Wed 30 Oct 19
 
 Completed a [HackerRank](https://www.hackerrank.com/) algorithm which move the first ```n``` element in an array to the back of the array.
