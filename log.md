@@ -22,7 +22,7 @@ To build up my foundation in front end web development, particularly Javascript 
 
 ## Mon 13 Jan 20
 
-First day of Next Academy Full Stack Web Development Bootcamp.
+First day of Next Academy Full Stack Web Development Bootcamp. Introduction to HTML & CSS, refershing what I have gone through on FreeCodeCamp and Codecademy when I first started coding in Sept 2019. 
 
 ## Wed 30 Oct 19
 
