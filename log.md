@@ -19,6 +19,15 @@ To fast track my learning by building projects and eventually get into a full ti
 To build up my foundation in front end web development, particularly Javascript and JS frameworks.
 
 ----------------------------------------------------------
+## Tue 14 Jan 20
+
+Mainly working on CSS Animations. We have a group project after lunch which requires us to clone a website: https://shopme-next.netlify.com/. Worked with team member Kay Shaun and Irsyad.
+
+Materials on flexbox to read:
+
+1. https://flexboxfroggy.com/
+2. https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+3. https://github.com/samanthaming/Flexbox30#align-items-row
 
 ## Mon 13 Jan 20
 
