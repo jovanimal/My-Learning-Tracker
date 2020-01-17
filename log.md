@@ -19,6 +19,56 @@ To fast track my learning by building projects and eventually get into a full ti
 To build up my foundation in front end web development, particularly Javascript and JS frameworks.
 
 ----------------------------------------------------------
+## Fri 17 Jan 20
+
+## Thu 16 Jan 20
+
+First day of JavaScript, I'm like "YESS, finally!" Nothing particularly challenging as I've been writing JS for 4 months now. Group presentation on explaining data prototypes, e.g. push, indexOf, sort, includes etc. First Challenge is to use write javascript so that it will calculate your BMI for you: https://code.nextacademy.com/lessons/exercise--bmi-calculator/980. I wrote it in a function since it can take in both parameters: 
+
+```
+function calculateBMI(myWeight, myHeight) {
+  let myBMI = myWeight / (myHeight * myHeight);
+  if (myBMI < 18.5) console.log(`Your BMI is ${myBMI}. You are underweight`);
+  else if (myBMI >= 18.5 && myBMI <= 24.9)
+    console.log(`Your BMI is ${myBMI}. You are in the healthy weight range`);
+  else if (myBMI >= 30 && myBMI <= 40)
+    console.log(`Your BMI is ${myBMI}. You are overweight`);
+  else console.log("Why my BMI is not specified!!!");
+}
+
+calculateBMI(82, 1.78); //  return Why my BMI is not specified!!!
+
+```
+The second challenge is FizzBuzz: https://code.nextacademy.com/lessons/challenge--fizzbuzz/868 -
+```
+<!DOCTYPE html>
+<html>
+  <body>
+    <p>Click the button to demonstrate the fizzBuzz.</p>
+
+    <button onclick="fizzBuzz()">Try it</button>
+
+    <p id="demo"></p>
+
+    <script>
+      function fizzBuzz() {
+        let number = prompt("Please enter your number");
+        let result = "";
+        if (number >= 1 && number <= 100) {
+          if (number % 3 == 0 && number % 5 == 0) {
+            alert("FizzBuzz");
+          } else if (number % 3 == 0) {
+            alert("Fizz");
+          } else if (number % 5 == 0) {
+            alert("Buzz");
+          }
+        } else alert("Enter a number between 1-100!");
+      }
+    </script>
+  </body>
+</html>
+```
+
 ## Wed 15 Jan 20
 
 Working on Bootstrap. First Challenge is to use only Bootsrap to clone a website without writing any CSS code: https://bootstrap-next-example.netlify.com/. Though I have limited experience on Bootstrap, it's impressive to see what Bootstrap alone can do and I get to know Bootstrap in an in-depth level today. Good stuff.
