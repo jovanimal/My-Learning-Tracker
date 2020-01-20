@@ -19,7 +19,37 @@ To fast track my learning by building projects and eventually get into a full ti
 To build up my foundation in front end web development, particularly Javascript and JS frameworks.
 
 ----------------------------------------------------------
+## Mon 20 Jan 20
+Second week into the coding bootcamp !
+
 ## Fri 17 Jan 20
+Second day into Javascript, introducing loops (e.g For, while, if statement). The group activity is a challenging one as our group got the hardest problem (claimed by the mentors), and we are only allowed to use ONE while loop. We went through stack overflow and found a similar solution but we didn't understand what the code says. Thus we re-engineer and break it down into pieces and we got it after half an hour. Solution:
+
+```
+function romanize(num) {
+  if (isNaN(num))
+    return NaN;
+
+  let digits = String(num).split("");
+
+  const key = ["", "I", "II", "III", "IV", "V", "VI", "VII", "VIII", "IX",
+    "", "X", "XX", "XXX", "XL", "L", "LX", "LXX", "LXXX", "XC",
+    "", "C", "CC", "CCC", "CD", "D", "DC", "DCC", "DCCC", "CM",
+    "", "M"];
+
+  let roman = "";
+  
+  let i = 0; 
+  while (i < num.length) {
+    roman = (key[+digits.pop() + (i * 10)]) + roman; 
+    i ++}
+
+  return roman;
+  
+}
+
+console.log(romanize(1426));
+```
 
 ## Thu 16 Jan 20
 
