@@ -19,8 +19,12 @@ To fast track my learning by building projects and eventually get into a full ti
 To build up my foundation in front end web development, particularly Javascript and JS frameworks.
 
 ----------------------------------------------------------
+## Tue 21 Jan 20
+
 ## Mon 20 Jan 20
-Second week into the coding bootcamp !
+Second week into the coding bootcamp ! Today we went through DOM manipulation, how to access HTML from Javascript (e.g createElement, getElementbyId, append, innerHTML).
+
+Though we probably don't use every single DOM methods except a few, today's lesson helps in having an in-depth understanding. I'm sure it will provide more value when situation like this arise in the future. 
 
 ## Fri 17 Jan 20
 Second day into Javascript, introducing loops (e.g For, while, if statement). The group activity is a challenging one as our group got the hardest problem (claimed by the mentors), and we are only allowed to use ONE while loop. We went through stack overflow and found a similar solution but we didn't understand what the code says. Thus we re-engineer and break it down into pieces and we got it after half an hour. Solution:
