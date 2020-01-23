@@ -19,7 +19,44 @@ To fast track my learning by building projects and eventually get into a full ti
 To build up my foundation in front end web development, particularly Javascript and JS frameworks.
 
 ----------------------------------------------------------
+## Thu 23 Jan 20
+Last day before we off for Chinese New Year and resume lesson on next Tuesday.
+
+## Wed 22 Jan 20
+Today we have to build a tic tac toe. It's interesting while figuring out the logic and decide who's the winner. 
+
+The second part is even more interesting: Introduction to API. We learned how to interact with API using both methods (Javascript & jQuery) and build a GIF generator with API.
+```
+// Vanilla Javascript fetch function
+fetch("https://api.chucknorris.io/jokes/random")
+  .then(function(response) {
+    return response.json();
+  })
+  .then(function(data) {
+    console.log(data.value);
+  });
+
+//jQuery ajax
+$.ajax({
+  url: "https://api.chucknorris.io/jokes/random",
+  method: "GET",
+  success: function(result) {
+    console.log(result.value);
+  },
+  error: function(error) {
+    console.log(`Error: ${error}`);
+  }
+});
+```
+
 ## Tue 21 Jan 20
+Today we have to build a to do app with the following requirements:
+1. Allow users to add any text input into the list
+2. Users can delete a task from the list by clicking on it
+3. Disable the add button when the text input is less than 3 character
+4. Clear text input after each submission
+
+I had built a to do app back in September 2019 by watching [Watch and Code](https://watchandcode.com). Though I still need to incorporate requirement #2 and #3 into the code.
 
 ## Mon 20 Jan 20
 Second week into the coding bootcamp ! Today we went through DOM manipulation, how to access HTML from Javascript (e.g createElement, getElementbyId, append, innerHTML).
