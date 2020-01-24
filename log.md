@@ -20,7 +20,7 @@ To build up my foundation in front end web development, particularly Javascript 
 
 ----------------------------------------------------------
 ## Thu 23 Jan 20
-Last day before we off for Chinese New Year and resume lesson on next Tuesday.
+Last day before we off for Chinese New Year and resume lesson on next Tuesday. Today we learned how to use airtable and GET the API. It's astounding to see how powerful API is, in performing certain tasks by just fetching the API and it handles the rest for us without writing tedious steps in javascript.
 
 ## Wed 22 Jan 20
 Today we have to build a tic tac toe. It's interesting while figuring out the logic and decide who's the winner. 
