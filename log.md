@@ -19,8 +19,13 @@ To fast track my learning by building projects and eventually get into a full ti
 To build up my foundation in front end web development, particularly Javascript and JS frameworks.
 
 ----------------------------------------------------------
+## Tue 28 Jan 20
+Last day for the 2-week front end HTML,CSS course. Today we learned how to build a message board where we used "POST" and "GET" to fetch messages from the same endpoints. It's interesting to see how we can interact with the messages and others'.
+
+READ: [What is the difference between POST and GET?](https://stackoverflow.com/questions/3477333/what-is-the-difference-between-post-and-get)
+
 ## Thu 23 Jan 20
-Last day before we off for Chinese New Year and resume lesson on next Tuesday. Today we learned how to use airtable and GET the API. It's astounding to see how powerful API is, in performing certain tasks by just fetching the API and it handles the rest for us without writing tedious steps in javascript.
+Last day before we off for Chinese New Year and resume lesson on next Tuesday. Today we learned how to use Airtable and GET the API. It's astounding to see how powerful API is, in performing certain tasks by just fetching the API and it handles the rest for us without writing tedious steps in javascript. Web application used: Airtable & Zapier.
 
 ## Wed 22 Jan 20
 Today we have to build a tic tac toe. It's interesting while figuring out the logic and decide who's the winner. 
