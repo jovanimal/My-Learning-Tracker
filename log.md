@@ -19,6 +19,22 @@ To fast track my learning by building projects and eventually get into a full ti
 To build up my foundation in front end web development, particularly Javascript and JS frameworks.
 
 ----------------------------------------------------------
+## Wed 29 Jan 20
+First day of ReactJS. Getting ourselves familiar with Javascript ES6 features and syntax. I'm familiar with most of lessons taught except Destructuring. It's an interesting one and it got me stuck for a while, it turns out that Function Destructuring works in a similar way with Array Destructuring, it takes the index number in the array that you return, and set the variables accordingly.
+```
+const getState = state => {
+  let newFunction = () => {
+    console.log(`Your state is ${state}`)
+  }
+  return [state, newFunction]
+  
+}
+
+const [state, logState] = getState('stable')
+console.log(state) // The console should print out 'stable'
+logState() // The console should print out 'Your state is stable'
+```
+
 ## Tue 28 Jan 20
 Last day for the 2-week front end HTML,CSS course. Today we learned how to build a message board where we used "POST" and "GET" to fetch messages from the same endpoints. It's interesting to see how we can interact with the messages and others'.
 
