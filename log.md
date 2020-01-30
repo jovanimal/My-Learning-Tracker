@@ -19,6 +19,12 @@ To fast track my learning by building projects and eventually get into a full ti
 To build up my foundation in front end web development, particularly Javascript and JS frameworks.
 
 ----------------------------------------------------------
+## Thu 30 Jan 20
+Today is an intersting one. We learn to build a calculator by using React and it took me a while to figure out how everything works
+(passing down props and destructuring).
+
+Lessons: Git command, Build Calculator
+
 ## Wed 29 Jan 20
 First day of ReactJS. Getting ourselves familiar with Javascript ES6 features and syntax. I'm familiar with most of lessons taught except Destructuring. It's an interesting one and it got me stuck for a while, it turns out that Function Destructuring works in a similar way with Array Destructuring, it takes the index number in the array that you return, and set the variables accordingly.
 ```
