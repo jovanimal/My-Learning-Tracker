@@ -19,6 +19,32 @@ To fast track my learning by building projects and eventually get into a full ti
 To build up my foundation in front end web development, particularly Javascript and JS frameworks.
 
 ----------------------------------------------------------
+## Mon 3 Feb 20
+First day into building Nextgram. First we fetch Nextgram API by using axios in React. We use a library called Axios to make the API call process easier, the call looks very similar to Fetch, but less wordy.
+```
+// npm install --save axios
+
+import axios from 'axios';
+
+useEffect(() => {
+    axios.get('https://insta.nextacademy.com/api/v1/users')
+      .then(result => {
+        setUsers([...result.data]);
+      })
+      .catch(error => {
+        console.log('ERROR: ', error)
+      })
+  }, [])
+```
+Other lessons: Install reactstrap, react-graceful-image, adding loader, using props in loader (reusable functional component).
+
+Objective: [Nextgram](https://insta.nextacademy.com/users/)
+
+## Fri 31 Jan 20
+Today we learn how to build a TicTacToe using React. Previously we had built it using HTML, CSS & vanilla JS. It's amazing to see how powerful React is in managing the state and passing down prop, and to realise the advantage React has over no-framework-DOM-manipulation.
+
+Article to read: [Thinking in React](https://www.codementor.io/@radubrehar/thinking-in-react-8duata34n)
+
 ## Thu 30 Jan 20
 Today is an intersting one. We learn to build a calculator by using React and it took me a while to figure out how everything works
 (passing down props and destructuring).
