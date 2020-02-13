@@ -1,7 +1,9 @@
 # My Learning Tracker 
 A complete log of my web development skills, learning, resources, highlights, interests, and everything to do with my learning. It's a way to keep track, organise, and share my learning.
 
-[For my learning log click here](https://github.com/jovanimal/My-Learning-Tracker/blob/master/log.md "Regular logs of my learning with links, reflections, and information about my learning process")
+[For my January 2020 coding bootcamp learning log click here](https://github.com/jovanimal/Next-Academy-Bootcamp "Regular logs of my learning with links, reflections, and information about my learning process")
+
+[For my other learning log click here](https://github.com/jovanimal/My-Learning-Tracker/blob/master/log.md "Regular logs of my learning with links, reflections, and information about my learning process")
 
 ----
 
@@ -11,21 +13,21 @@ A complete log of my web development skills, learning, resources, highlights, in
 
 |               Skill              | 1<br>Introduction | 2<br>Basics   | 3<br>Good     | 4<br>Pretty Good | 5<br>Confident | 6<br>Awesome    |
 |:-------------------------------- |:-----------------:|:-------------:|:-------------:|:----------------:|:--------------:|:---------------:|
-|**HTML5**                         | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
-|**CSS3**                          | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
+|**HTML5**                         | ![done][done]     | ![done][done] | ![done][done] |  ![done][done]   | ![done][done]  |                 |
+|**CSS3**                          | ![done][done]     | ![done][done] | ![done][done] |  ![done][done]   | ![done][done]  |                 |
 |**JavaScript**                    | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
 |**ES6**                           | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
+|**React.js**                      |  ![done][done]    | ![done][done] | ![done][done] |                  |                |                 |
 |**Command line**                  | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
-|**React**                         |  ![done][done]    |               |               |                  |                |                 |
-|**Python**                        |                   |               |               |                  |                |                 |
-|**Git**                           | ![done][done]     | ![done][done] |               |                  |                |                 |
+|**Python**                        |  ![done][done]    |               |               |                  |                |                 |
+|**Git**                           | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
 |**GitHub**                        | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
-|**Working with APIs**             |                   |               |               |                  |                |                 |
-|**Website Building**              |                   |               |               |                  |                |                 |
-|**Publishing website**            |                   |               |               |                  |                |                 |
-|**Bootstrap**                     |                   |               |               |                  |                |                 |
+|**Working with APIs**             | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
+|**Website Building**              | ![done][done]     | ![done][done] | ![done][done] |  ![done][done]   |                |                 |
+|**Publishing website**            | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
+|**Bootstrap**                     | ![done][done]     | ![done][done] | ![done][done] |  ![done][done]   |                |                 |
 |**Node.js**                       |                   |               |               |                  |                |                 |
-|**NPM**                           |                   |               |               |                  |                |                 |
+|**NPM**                           | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
 |**Hacker Rank**                   | ![done][done]     | ![done][done] |               |                  |                |                 |
 ----
 
@@ -39,7 +41,7 @@ A complete log of my web development skills, learning, resources, highlights, in
 
 |            Status           |   Year   | Course                                                          |                Tutor                        |
 |:---------------------------:|:---------|:----------------------------------------------------------------|:-------------------------------------------:|
-| ![In Progress][In Progress] | Mar 2020 | [10-week Web Development Bootcamp]                               | [Next Academy]                          |
+| ![In Progress][In Progress] | Jan 2020 | [10-week Web Development Bootcamp]                              | [Next Academy]                          |
 | ![In Progress][In Progress] |          | Reading [Eloquent JavaScript]                                   | [Marijn Haverbeke]                          |
 | ![In Progress][In Progress] |          | [You Don't know JavaScript] (To continue after [Eloquent JavaScript])   | [Kyle Simpson]                              |
 | ![Completed][Completed]     | Dec 2019 | [Build Responsive Real World Websites with HTML5 and CSS3]      | [Udemy]                              |
@@ -93,7 +95,7 @@ A complete log of my web development skills, learning, resources, highlights, in
 
 The most interesting of what I'm watching, reading, and doing:
 
-[**Click here for my articles**](https://jovangoh.wordpress.com/)
+[**Click here for my articles**](https://medium.com/@jovangoh)
 
 And here is a chronological log of the highlights of my learning:
 
