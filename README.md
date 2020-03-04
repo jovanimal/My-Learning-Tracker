@@ -15,20 +15,20 @@ A complete log of my web development skills, learning, resources, highlights, in
 |:-------------------------------- |:-----------------:|:-------------:|:-------------:|:----------------:|:--------------:|:---------------:|
 |**HTML5**                         | ![done][done]     | ![done][done] | ![done][done] |  ![done][done]   | ![done][done]  |                 |
 |**CSS3**                          | ![done][done]     | ![done][done] | ![done][done] |  ![done][done]   | ![done][done]  |                 |
-|**JavaScript**                    | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
-|**ES6**                           | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
+|**JavaScript**                    | ![done][done]     | ![done][done] | ![done][done] |  ![done][done]   |                |                 |
+|**ES6**                           | ![done][done]     | ![done][done] | ![done][done] |  ![done][done]   |                |                 |
 |**React.js**                      |  ![done][done]    | ![done][done] | ![done][done] |                  |                |                 |
 |**Command line**                  | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
-|**Python**                        |  ![done][done]    |               |               |                  |                |                 |
-|**Git**                           | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
-|**GitHub**                        | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
-|**Working with APIs**             | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
+|**Python**                        |  ![done][done]    | ![done][done] | ![done][done] |                  |                |                 |
+|**Git**                           | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
+|**GitHub**                        | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
+|**Working with APIs**             | ![done][done]     | ![done][done] | ![done][done] |  ![done][done]   |                |                 |
 |**Website Building**              | ![done][done]     | ![done][done] | ![done][done] |  ![done][done]   |                |                 |
-|**Publishing website**            | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
+|**Publishing website**            | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
 |**Bootstrap**                     | ![done][done]     | ![done][done] | ![done][done] |  ![done][done]   |                |                 |
-|**Node.js**                       |                   |               |               |                  |                |                 |
 |**NPM**                           | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
-|**Hacker Rank**                   | ![done][done]     | ![done][done] |               |                  |                |                 |
+|**Hacker Rank**                   | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
+|**Node.js**                       |                   |               |               |                  |                |                 |
 ----
 
 ## Learning
@@ -121,21 +121,21 @@ It is an almost exact copy of [Ginny Fahs'](https://twitter.com/ginnyfahs) ["Thi
 
 
 * [x] Open the computer’s terminal
-* [ ] Use a text editor (bonus points if you have a specific reason for choosing it)
+* [x] Use a text editor (bonus points if you have a specific reason for choosing it)
 * [x] Use some keyboard shortcuts
 * [x] Write tests for your code
-* [ ] Help another web developer with something they’re having trouble with
+* [x] Help another web developer with something they’re having trouble with
 * [x] Attend an event about web development
 * [x] Follow developers you admire on social media
 * [x] Read a book about coding
 * [x] Open your browser console
-* [ ] Get data from an API
+* [x] Get data from an API
 * [ ] Hide API keys from the public
 * [ ] Post a question on Stack Overflow
 * [x] Push code to GitHub or GitLab or BitBucket
 * [ ] Speak about something web development-related at an event
-* [ ] Complete a technical interview
-* [ ] Participate in a hackathon
+* [x] Complete a technical interview
+* [x] Participate in a hackathon
 * [x] Deploy a project
 * [ ] Ship your project to a store
 * [ ] Contribute to open source
