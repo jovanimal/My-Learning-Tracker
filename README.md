@@ -17,8 +17,8 @@ A complete log of my web development skills, learning, resources, highlights, in
 |**CSS3**                          | ![done][done]     | ![done][done] | ![done][done] |  ![done][done]   | ![done][done]  |                 |
 |**JavaScript**                    | ![done][done]     | ![done][done] | ![done][done] |  ![done][done]   |                |                 |
 |**ES6**                           | ![done][done]     | ![done][done] | ![done][done] |  ![done][done]   |                |                 |
-|**React.js**                      |  ![done][done]    | ![done][done] | ![done][done] |                  |                |                 |
-|**Command line**                  | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
+|**React.js**                      |  ![done][done]    | ![done][done] | ![done][done] |  ![done][done]   |                |                 |
+|**Command line**                  | ![done][done]     | ![done][done] | ![done][done] |  ![done][done]   |                |                 |
 |**Python**                        |  ![done][done]    | ![done][done] | ![done][done] |                  |                |                 |
 |**Git**                           | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
 |**GitHub**                        | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
@@ -41,9 +41,9 @@ A complete log of my web development skills, learning, resources, highlights, in
 
 |            Status           |   Year   | Course                                                          |                Tutor                        |
 |:---------------------------:|:---------|:----------------------------------------------------------------|:-------------------------------------------:|
-| ![In Progress][In Progress] | Jan 2020 | [10-week Full Stack Web Development Bootcamp]                   | [Next Academy]                          |
 | ![In Progress][In Progress] |          | Reading [Eloquent JavaScript]                                   | [Marijn Haverbeke]                          |
 | ![In Progress][In Progress] |          | [You Don't know JavaScript] (To continue after [Eloquent JavaScript])   | [Kyle Simpson]                              |
+| ![Completed][Completed]     | Mar 2020 | [10-week Full Stack Web Development Bootcamp]                   | [Next Academy]                          |
 | ![Completed][Completed]     | Dec 2019 | [Build Responsive Real World Websites with HTML5 and CSS3]      | [Udemy]                              |
 | ![Completed][Completed]     | Dec 2019 | [Weekly Coding Community Meetup in Kuala Lumpur]                | [The Hacker Collective]                              |
 | ![Completed][Completed]     | Oct 2019 | [Introduction to JavaScript]                                    | [Codecademy]                          |
