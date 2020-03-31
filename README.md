@@ -140,7 +140,7 @@ It is an almost exact copy of [Ginny Fahs'](https://twitter.com/ginnyfahs) ["Thi
 * [ ] Ship your project to a store
 * [ ] Contribute to open source
 * [x] Get paid to code
-* [ ] When people ask what you do, respond saying you’re a developer :)
+* [x] When people ask what you do, respond saying you’re a developer :)
 
 ----
 
