@@ -15,18 +15,17 @@ A complete log of my web development skills, learning, resources, highlights, in
 |:-------------------------------- |:-----------------:|:-------------:|:-------------:|:----------------:|:--------------:|:---------------:|
 |**HTML5**                         | ![done][done]     | ![done][done] | ![done][done] |  ![done][done]   | ![done][done]  |                 |
 |**CSS3**                          | ![done][done]     | ![done][done] | ![done][done] |  ![done][done]   | ![done][done]  |                 |
-|**JavaScript**                    | ![done][done]     | ![done][done] | ![done][done] |  ![done][done]   |                |                 |
-|**ES6**                           | ![done][done]     | ![done][done] | ![done][done] |  ![done][done]   |                |                 |
-|**React.js**                      |  ![done][done]    | ![done][done] | ![done][done] |  ![done][done]   |                |                 |
-|**Command line**                  | ![done][done]     | ![done][done] | ![done][done] |  ![done][done]   |                |                 |
+|**JavaScript**                    | ![done][done]     | ![done][done] | ![done][done] |  ![done][done]   | ![done][done]  |                 |
+|**ES6**                           | ![done][done]     | ![done][done] | ![done][done] |  ![done][done]   | ![done][done]  |                 |
+|**React.js**                      |  ![done][done]    | ![done][done] | ![done][done] |  ![done][done]   | ![done][done]  |                 |
+|**Command line**                  | ![done][done]     | ![done][done] | ![done][done] |  ![done][done]   | ![done][done]  |                 |
 |**Python**                        |  ![done][done]    | ![done][done] | ![done][done] |                  |                |                 |
-|**Git**                           | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
-|**GitHub**                        | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
-|**Working with APIs**             | ![done][done]     | ![done][done] | ![done][done] |  ![done][done]   |                |                 |
-|**Website Building**              | ![done][done]     | ![done][done] | ![done][done] |  ![done][done]   |                |                 |
-|**Publishing website**            | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
-|**Bootstrap**                     | ![done][done]     | ![done][done] | ![done][done] |  ![done][done]   |                |                 |
-|**NPM**                           | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
+|**Git**                           | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    | ![done][done]  |                 |
+|**Working with APIs**             | ![done][done]     | ![done][done] | ![done][done] |  ![done][done]   | ![done][done]  |                 |
+|**Website Building**              | ![done][done]     | ![done][done] | ![done][done] |  ![done][done]   | ![done][done]  |                 |
+|**Publishing website**            | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    | ![done][done]  |                 |
+|**Ant Design**                    | ![done][done]     | ![done][done] | ![done][done] |  ![done][done]   |                |                 |
+|**NPM**                           | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
 |**Hacker Rank**                   | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
 ----
 
